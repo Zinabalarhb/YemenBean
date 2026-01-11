@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\zinab\\source\\repos\\YemenBean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\features\\products\\commands\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\features\\products\\commands\\models\\productcommandmodelcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\models\\productcommandmodelcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A7A27AC-8640-4B05-BA5A-6365ED430795}|YemenBean.Api\\YemenBean.Api.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A7A27AC-8640-4B05-BA5A-6365ED430795}|YemenBean.Api\\YemenBean.Api.csproj|solutionrelative:yemenbean.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\handlers\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\features\\products\\commands\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\features\\products\\commands\\handlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\handlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\features\\products\\commands\\models\\productcommandmodelupdate .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\models\\productcommandmodelupdate .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\features\\products\\commands\\models\\productcommandmodelcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|solutionrelative:yemenbean.core\\features\\products\\commands\\models\\productcommandmodelcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C51A200-40F8-43CD-AD06-BA7CB79C7F5A}|YemenBean.Core\\YemenBean.Core.csproj|c:\\users\\zinab\\source\\repos\\yemenbean\\yemenbean.core\\yemenbean.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -68,24 +68,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DeleteProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
-              "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
-              "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
-              "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBQAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:34:25.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CreateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Handlers\\CreateProductHandler.cs",
               "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\CreateProductHandler.cs",
@@ -98,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UpdateProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Handlers\\UpdateProductHandler.cs",
               "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\UpdateProductHandler.cs",
@@ -106,12 +93,11 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\UpdateProductHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:36:33.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:36:33.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductCommandModelDelete.cs",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelDelete.cs",
               "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelDelete.cs",
@@ -119,25 +105,49 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelDelete.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:46:35.685Z",
+              "WhenOpened": "2026-01-11T22:46:35.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCommandModelCreate.cs",
+              "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
+              "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
+              "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
+              "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:40:03.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
+              "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Handlers\\DeleteProductHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:34:25.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Api\\Program.cs",
               "RelativeDocumentMoniker": "YemenBean.Api\\Program.cs",
               "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Api\\Program.cs",
               "RelativeToolTip": "YemenBean.Api\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T22:24:45.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductCommandModelUpdate .cs",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelUpdate .cs",
               "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelUpdate .cs",
@@ -145,34 +155,19 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelUpdate .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:45:40.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductCommandModelCreate.cs",
-              "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
-              "RelativeDocumentMoniker": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
-              "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
-              "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Models\\ProductCommandModelCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:40:03.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:45:40.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "YemenBean.Core",
+              "Title": "YemenBean.Core.csproj",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\YemenBean.Core.csproj",
               "RelativeDocumentMoniker": "YemenBean.Core\\YemenBean.Core.csproj",
               "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Core\\YemenBean.Core.csproj",
               "RelativeToolTip": "YemenBean.Core\\YemenBean.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-11T22:35:40.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:35:40.662Z"
             },
             {
               "$type": "Document",
@@ -184,21 +179,19 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ViewState": "AgIAACYAAAAAAAAAAAAAADUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-01-11T22:38:21.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:38:21.255Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "YemenBean.Api",
+              "Title": "YemenBean.Api.csproj",
               "DocumentMoniker": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Api\\YemenBean.Api.csproj",
               "RelativeDocumentMoniker": "YemenBean.Api\\YemenBean.Api.csproj",
               "ToolTip": "C:\\Users\\zinab\\source\\repos\\YemenBean\\YemenBean.Api\\YemenBean.Api.csproj",
               "RelativeToolTip": "YemenBean.Api\\YemenBean.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-11T22:37:26.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:37:26.496Z"
             },
             {
               "$type": "Document",
@@ -210,8 +203,7 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Commands\\Validatiors\\UpdateProductValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:35:28.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:35:28.437Z"
             },
             {
               "$type": "Document",
@@ -223,8 +215,7 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Queries\\Handlers\\GetAllProductsHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:30:15.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:30:15.452Z"
             },
             {
               "$type": "Document",
@@ -236,8 +227,7 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Queries\\GetProductByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:30:26.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:30:26.069Z"
             },
             {
               "$type": "Document",
@@ -249,8 +239,7 @@
               "RelativeToolTip": "YemenBean.Core\\Features\\Products\\Queries\\Handlers\\GetProductByIdHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:29:46.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:29:46.667Z"
             },
             {
               "$type": "Document",
@@ -262,8 +251,7 @@
               "RelativeToolTip": "..\\..\\..\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\YemenBean\\YemenBean.Core\\Features\\Products\\Queries\\Handlers\\GetAllProductsHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T22:27:04.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T22:27:04.976Z"
             }
           ]
         }

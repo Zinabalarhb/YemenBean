@@ -4,3 +4,9 @@ GET {{YemenBean.Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{YemenBean.Api_HostAddress}}/api/products
+
+###
+
+

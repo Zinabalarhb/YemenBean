@@ -15,3 +15,4 @@ C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.pdb
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.genruntimeconfig.cache
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\ref\YemenBean.Infrastructure.dll
+C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.sourcelink.json

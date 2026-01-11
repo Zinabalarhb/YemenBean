@@ -223,3 +223,4 @@ C:\Users\zinab\source\repos\YemenBean\YemenBean.Api\bin\Debug\net10.0\MediatR.dl
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Api\bin\Debug\net10.0\MediatR.Contracts.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Api\bin\Debug\net10.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\zinab\source\repos\YemenBean\YemenBean.Api\obj\Debug\net10.0\YemenBean.Api.sourcelink.json

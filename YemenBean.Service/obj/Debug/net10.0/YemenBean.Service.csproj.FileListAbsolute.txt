@@ -15,3 +15,4 @@ C:\Users\zinab\source\repos\YemenBean\YemenBean.Service\obj\Debug\net10.0\YemenB
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Service\obj\Debug\net10.0\refint\YemenBean.Service.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Service\obj\Debug\net10.0\YemenBean.Service.pdb
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Service\obj\Debug\net10.0\ref\YemenBean.Service.dll
+C:\Users\zinab\source\repos\YemenBean\YemenBean.Service\obj\Debug\net10.0\YemenBean.Service.sourcelink.json
