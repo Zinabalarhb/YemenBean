@@ -1,0 +1,6 @@
+@YemenBean.Api_HostAddress = http://localhost:5195
+
+GET {{YemenBean.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="YemenBean.Api/YemenBean.Api.csproj" Id="4a7a27ac-8640-4b05-ba5a-6365ed430795" />
+  <Project Path="YemenBean.Core/YemenBean.Core.csproj" Id="5c51a200-40f8-43cd-ad06-ba7cb79c7f5a" />
+  <Project Path="YemenBean.Data/YemenBean.Data.csproj" Id="876cd2c8-844c-4e68-b076-942555834c6b" />
+  <Project Path="YemenBean.Infrastructure/YemenBean.Infrastructure.csproj" Id="f1dacb03-a0cd-4507-bcf2-124448fc4eac" />
+  <Project Path="YemenBean.Service/YemenBean.Service.csproj" Id="5e52202b-16c9-402c-aa0a-075046b79d82" />
+</Solution>
