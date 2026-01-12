@@ -1,0 +1,10 @@
+wwwroot\Images\Product-3.png
+wwwroot\Images\hero.png
+wwwroot\Images\product-1.png
+wwwroot\Images\product-2.png
+wwwroot\Images\product-4.png
+wwwroot\Images\product-5.png
+wwwroot\Images\product-6.png
+wwwroot\Images\product-7.png
+wwwroot\Images\product-8.png
+wwwroot\Images\product-9.png
