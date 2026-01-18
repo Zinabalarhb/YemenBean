@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\YemenBean.Data\YemenBean.Data.csproj" />
     <ProjectReference Include="..\YemenBean.Service\YemenBean.Service.csproj" />
   </ItemGroup>
 

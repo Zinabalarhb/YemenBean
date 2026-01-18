@@ -5,8 +5,8 @@ C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.AssemblyInfoInputs.cache
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.AssemblyInfo.cs
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.csproj.CoreCompileInputs.cache
+C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.sourcelink.json
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\refint\YemenBean.Data.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.pdb
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\ref\YemenBean.Data.dll
-C:\Users\zinab\source\repos\YemenBean\YemenBean.Data\obj\Debug\net10.0\YemenBean.Data.sourcelink.json

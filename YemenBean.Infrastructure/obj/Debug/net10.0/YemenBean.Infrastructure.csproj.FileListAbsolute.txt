@@ -9,10 +9,10 @@ C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.AssemblyInfo.cs
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.sourcelink.json
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBea.244EB7A5.Up2Date
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\refint\YemenBean.Infrastructure.dll
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.pdb
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.genruntimeconfig.cache
 C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\ref\YemenBean.Infrastructure.dll
-C:\Users\zinab\source\repos\YemenBean\YemenBean.Infrastructure\obj\Debug\net10.0\YemenBean.Infrastructure.sourcelink.json

@@ -11,6 +11,7 @@
           "FluentValidation": "12.1.1",
           "MediatR": "14.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "YemenBean.Data": "1.0.0",
           "YemenBean.Service": "1.0.0"
         },
         "runtime": {

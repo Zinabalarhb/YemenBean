@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YemenBean.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8602ba0eea6b36cef7a8bd13e368bea0b9f6fcd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb071ddfe870ea5737ac237c6dafa007cd52792")]
 [assembly: System.Reflection.AssemblyProductAttribute("YemenBean.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YemenBean.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using YemenBean.Data.Entities;
 
 namespace YemenBean.Data.Entities
 {
@@ -17,5 +16,9 @@ namespace YemenBean.Data.Entities
         public string? Description { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // ===== Category Relation =====
+        public int CategoryId { get; set; }
+        public Category Category { get; set; } = null!;
     }
 }
